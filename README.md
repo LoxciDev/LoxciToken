@@ -1,0 +1,2 @@
+# LoxciToken
+MAIN TOKEN CONTRACT
